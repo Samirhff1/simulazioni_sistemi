@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+
+# OMNeT++ full distribution (toolchain and sources)
+opp_workspace/omnetpp-6.3.0/
+opp_workspace/.metadata/
+
+# Build and simulation artifacts
+opp_workspace/modello1/out/
+opp_workspace/modello1/modello1
+opp_workspace/modello1/results/
+opp_workspace/modello1/*.vec
+opp_workspace/modello1/*.vci
+opp_workspace/modello1/*.sca
+
+# IDE/project generated files
+opp_workspace/modello1/.settings/
+opp_workspace/modello1/.cproject
+opp_workspace/modello1/.project
+opp_workspace/modello1/.oppbuildspec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor temp
+.DS_Store
+*.swp
