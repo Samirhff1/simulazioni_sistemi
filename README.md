@@ -36,7 +36,7 @@ Stack usato nel repository:
 - C++17 per i moduli custom OMNeT++
 - OMNeT++ 6.3.0 come motore di simulazione
 - Python (>=3.9, validato su 3.11) per post-analisi statistica
-- License badge: MIT (aggiungere file LICENSE nel repository se non ancora presente)
+- License badge: MIT 
 
 Il sistema simulato rappresenta una coda con logica server non banale: servizio a blocchi, sospensioni (vacation), riattivazione solo oltre soglia N, e tempo di setup prima della ripresa del servizio.
 
